@@ -1,0 +1,14 @@
+D:\BujdeiFelix\GenPermutari\bin\Debug\net6.0\GenPermutari.exe
+D:\BujdeiFelix\GenPermutari\bin\Debug\net6.0\GenPermutari.deps.json
+D:\BujdeiFelix\GenPermutari\bin\Debug\net6.0\GenPermutari.runtimeconfig.json
+D:\BujdeiFelix\GenPermutari\bin\Debug\net6.0\GenPermutari.dll
+D:\BujdeiFelix\GenPermutari\bin\Debug\net6.0\GenPermutari.pdb
+D:\BujdeiFelix\GenPermutari\obj\Debug\net6.0\GenPermutari.GeneratedMSBuildEditorConfig.editorconfig
+D:\BujdeiFelix\GenPermutari\obj\Debug\net6.0\GenPermutari.AssemblyInfoInputs.cache
+D:\BujdeiFelix\GenPermutari\obj\Debug\net6.0\GenPermutari.AssemblyInfo.cs
+D:\BujdeiFelix\GenPermutari\obj\Debug\net6.0\GenPermutari.csproj.CoreCompileInputs.cache
+D:\BujdeiFelix\GenPermutari\obj\Debug\net6.0\GenPermutari.dll
+D:\BujdeiFelix\GenPermutari\obj\Debug\net6.0\refint\GenPermutari.dll
+D:\BujdeiFelix\GenPermutari\obj\Debug\net6.0\GenPermutari.pdb
+D:\BujdeiFelix\GenPermutari\obj\Debug\net6.0\GenPermutari.genruntimeconfig.cache
+D:\BujdeiFelix\GenPermutari\obj\Debug\net6.0\ref\GenPermutari.dll
