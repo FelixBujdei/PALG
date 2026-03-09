@@ -1,0 +1,14 @@
+D:\BujdeiFelix\lab1lab34\bin\Debug\net6.0\lab1lab34.exe
+D:\BujdeiFelix\lab1lab34\bin\Debug\net6.0\lab1lab34.deps.json
+D:\BujdeiFelix\lab1lab34\bin\Debug\net6.0\lab1lab34.runtimeconfig.json
+D:\BujdeiFelix\lab1lab34\bin\Debug\net6.0\lab1lab34.dll
+D:\BujdeiFelix\lab1lab34\bin\Debug\net6.0\lab1lab34.pdb
+D:\BujdeiFelix\lab1lab34\obj\Debug\net6.0\lab1lab34.GeneratedMSBuildEditorConfig.editorconfig
+D:\BujdeiFelix\lab1lab34\obj\Debug\net6.0\lab1lab34.AssemblyInfoInputs.cache
+D:\BujdeiFelix\lab1lab34\obj\Debug\net6.0\lab1lab34.AssemblyInfo.cs
+D:\BujdeiFelix\lab1lab34\obj\Debug\net6.0\lab1lab34.csproj.CoreCompileInputs.cache
+D:\BujdeiFelix\lab1lab34\obj\Debug\net6.0\lab1lab34.dll
+D:\BujdeiFelix\lab1lab34\obj\Debug\net6.0\refint\lab1lab34.dll
+D:\BujdeiFelix\lab1lab34\obj\Debug\net6.0\lab1lab34.pdb
+D:\BujdeiFelix\lab1lab34\obj\Debug\net6.0\lab1lab34.genruntimeconfig.cache
+D:\BujdeiFelix\lab1lab34\obj\Debug\net6.0\ref\lab1lab34.dll
