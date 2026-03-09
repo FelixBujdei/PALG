@@ -1,0 +1,14 @@
+D:\BujdeiFelix\lab3lab37\bin\Debug\net6.0\lab3lab37.exe
+D:\BujdeiFelix\lab3lab37\bin\Debug\net6.0\lab3lab37.deps.json
+D:\BujdeiFelix\lab3lab37\bin\Debug\net6.0\lab3lab37.runtimeconfig.json
+D:\BujdeiFelix\lab3lab37\bin\Debug\net6.0\lab3lab37.dll
+D:\BujdeiFelix\lab3lab37\bin\Debug\net6.0\lab3lab37.pdb
+D:\BujdeiFelix\lab3lab37\obj\Debug\net6.0\lab3lab37.GeneratedMSBuildEditorConfig.editorconfig
+D:\BujdeiFelix\lab3lab37\obj\Debug\net6.0\lab3lab37.AssemblyInfoInputs.cache
+D:\BujdeiFelix\lab3lab37\obj\Debug\net6.0\lab3lab37.AssemblyInfo.cs
+D:\BujdeiFelix\lab3lab37\obj\Debug\net6.0\lab3lab37.csproj.CoreCompileInputs.cache
+D:\BujdeiFelix\lab3lab37\obj\Debug\net6.0\lab3lab37.dll
+D:\BujdeiFelix\lab3lab37\obj\Debug\net6.0\refint\lab3lab37.dll
+D:\BujdeiFelix\lab3lab37\obj\Debug\net6.0\lab3lab37.pdb
+D:\BujdeiFelix\lab3lab37\obj\Debug\net6.0\lab3lab37.genruntimeconfig.cache
+D:\BujdeiFelix\lab3lab37\obj\Debug\net6.0\ref\lab3lab37.dll
