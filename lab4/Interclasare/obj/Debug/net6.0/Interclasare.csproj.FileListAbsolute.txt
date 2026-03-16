@@ -1,0 +1,14 @@
+D:\BujdeiFelix\lab4\Interclasare\bin\Debug\net6.0\Interclasare.exe
+D:\BujdeiFelix\lab4\Interclasare\bin\Debug\net6.0\Interclasare.deps.json
+D:\BujdeiFelix\lab4\Interclasare\bin\Debug\net6.0\Interclasare.runtimeconfig.json
+D:\BujdeiFelix\lab4\Interclasare\bin\Debug\net6.0\Interclasare.dll
+D:\BujdeiFelix\lab4\Interclasare\bin\Debug\net6.0\Interclasare.pdb
+D:\BujdeiFelix\lab4\Interclasare\obj\Debug\net6.0\Interclasare.GeneratedMSBuildEditorConfig.editorconfig
+D:\BujdeiFelix\lab4\Interclasare\obj\Debug\net6.0\Interclasare.AssemblyInfoInputs.cache
+D:\BujdeiFelix\lab4\Interclasare\obj\Debug\net6.0\Interclasare.AssemblyInfo.cs
+D:\BujdeiFelix\lab4\Interclasare\obj\Debug\net6.0\Interclasare.csproj.CoreCompileInputs.cache
+D:\BujdeiFelix\lab4\Interclasare\obj\Debug\net6.0\Interclasare.dll
+D:\BujdeiFelix\lab4\Interclasare\obj\Debug\net6.0\refint\Interclasare.dll
+D:\BujdeiFelix\lab4\Interclasare\obj\Debug\net6.0\Interclasare.pdb
+D:\BujdeiFelix\lab4\Interclasare\obj\Debug\net6.0\Interclasare.genruntimeconfig.cache
+D:\BujdeiFelix\lab4\Interclasare\obj\Debug\net6.0\ref\Interclasare.dll
