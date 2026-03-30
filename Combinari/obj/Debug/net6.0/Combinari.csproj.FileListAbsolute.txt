@@ -1,0 +1,14 @@
+D:\BujdeiFelixx\Lab06\Combinari\bin\Debug\net6.0\Combinari.exe
+D:\BujdeiFelixx\Lab06\Combinari\bin\Debug\net6.0\Combinari.deps.json
+D:\BujdeiFelixx\Lab06\Combinari\bin\Debug\net6.0\Combinari.runtimeconfig.json
+D:\BujdeiFelixx\Lab06\Combinari\bin\Debug\net6.0\Combinari.dll
+D:\BujdeiFelixx\Lab06\Combinari\bin\Debug\net6.0\Combinari.pdb
+D:\BujdeiFelixx\Lab06\Combinari\obj\Debug\net6.0\Combinari.GeneratedMSBuildEditorConfig.editorconfig
+D:\BujdeiFelixx\Lab06\Combinari\obj\Debug\net6.0\Combinari.AssemblyInfoInputs.cache
+D:\BujdeiFelixx\Lab06\Combinari\obj\Debug\net6.0\Combinari.AssemblyInfo.cs
+D:\BujdeiFelixx\Lab06\Combinari\obj\Debug\net6.0\Combinari.csproj.CoreCompileInputs.cache
+D:\BujdeiFelixx\Lab06\Combinari\obj\Debug\net6.0\Combinari.dll
+D:\BujdeiFelixx\Lab06\Combinari\obj\Debug\net6.0\refint\Combinari.dll
+D:\BujdeiFelixx\Lab06\Combinari\obj\Debug\net6.0\Combinari.pdb
+D:\BujdeiFelixx\Lab06\Combinari\obj\Debug\net6.0\Combinari.genruntimeconfig.cache
+D:\BujdeiFelixx\Lab06\Combinari\obj\Debug\net6.0\ref\Combinari.dll

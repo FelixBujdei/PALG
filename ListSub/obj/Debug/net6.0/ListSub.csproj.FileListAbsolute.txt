@@ -1,0 +1,14 @@
+D:\BujdeiFelixx\Lab06\ListSub\bin\Debug\net6.0\ListSub.exe
+D:\BujdeiFelixx\Lab06\ListSub\bin\Debug\net6.0\ListSub.deps.json
+D:\BujdeiFelixx\Lab06\ListSub\bin\Debug\net6.0\ListSub.runtimeconfig.json
+D:\BujdeiFelixx\Lab06\ListSub\bin\Debug\net6.0\ListSub.dll
+D:\BujdeiFelixx\Lab06\ListSub\bin\Debug\net6.0\ListSub.pdb
+D:\BujdeiFelixx\Lab06\ListSub\obj\Debug\net6.0\ListSub.GeneratedMSBuildEditorConfig.editorconfig
+D:\BujdeiFelixx\Lab06\ListSub\obj\Debug\net6.0\ListSub.AssemblyInfoInputs.cache
+D:\BujdeiFelixx\Lab06\ListSub\obj\Debug\net6.0\ListSub.AssemblyInfo.cs
+D:\BujdeiFelixx\Lab06\ListSub\obj\Debug\net6.0\ListSub.csproj.CoreCompileInputs.cache
+D:\BujdeiFelixx\Lab06\ListSub\obj\Debug\net6.0\ListSub.dll
+D:\BujdeiFelixx\Lab06\ListSub\obj\Debug\net6.0\refint\ListSub.dll
+D:\BujdeiFelixx\Lab06\ListSub\obj\Debug\net6.0\ListSub.pdb
+D:\BujdeiFelixx\Lab06\ListSub\obj\Debug\net6.0\ListSub.genruntimeconfig.cache
+D:\BujdeiFelixx\Lab06\ListSub\obj\Debug\net6.0\ref\ListSub.dll

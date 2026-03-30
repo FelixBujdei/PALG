@@ -1,0 +1,14 @@
+D:\BujdeiFelixx\Lab06\Elefanti\bin\Debug\net7.0\Elefanti.exe
+D:\BujdeiFelixx\Lab06\Elefanti\bin\Debug\net7.0\Elefanti.deps.json
+D:\BujdeiFelixx\Lab06\Elefanti\bin\Debug\net7.0\Elefanti.runtimeconfig.json
+D:\BujdeiFelixx\Lab06\Elefanti\bin\Debug\net7.0\Elefanti.dll
+D:\BujdeiFelixx\Lab06\Elefanti\bin\Debug\net7.0\Elefanti.pdb
+D:\BujdeiFelixx\Lab06\Elefanti\obj\Debug\net7.0\Elefanti.GeneratedMSBuildEditorConfig.editorconfig
+D:\BujdeiFelixx\Lab06\Elefanti\obj\Debug\net7.0\Elefanti.AssemblyInfoInputs.cache
+D:\BujdeiFelixx\Lab06\Elefanti\obj\Debug\net7.0\Elefanti.AssemblyInfo.cs
+D:\BujdeiFelixx\Lab06\Elefanti\obj\Debug\net7.0\Elefanti.csproj.CoreCompileInputs.cache
+D:\BujdeiFelixx\Lab06\Elefanti\obj\Debug\net7.0\Elefanti.dll
+D:\BujdeiFelixx\Lab06\Elefanti\obj\Debug\net7.0\refint\Elefanti.dll
+D:\BujdeiFelixx\Lab06\Elefanti\obj\Debug\net7.0\Elefanti.pdb
+D:\BujdeiFelixx\Lab06\Elefanti\obj\Debug\net7.0\Elefanti.genruntimeconfig.cache
+D:\BujdeiFelixx\Lab06\Elefanti\obj\Debug\net7.0\ref\Elefanti.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Combinari", "Combinari.csproj", "{9F9904A7-D7A3-44B0-8019-564B85E9798B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F9904A7-D7A3-44B0-8019-564B85E9798B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F9904A7-D7A3-44B0-8019-564B85E9798B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F9904A7-D7A3-44B0-8019-564B85E9798B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F9904A7-D7A3-44B0-8019-564B85E9798B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B931FBD9-F485-408F-B0E2-7A4F36213B7E}
+	EndGlobalSection
+EndGlobal
