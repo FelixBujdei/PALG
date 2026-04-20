@@ -1,0 +1,14 @@
+D:\BujdeiFelix\lab8\CelMaiLungPalindrom\bin\Debug\net6.0\CelMaiLungPalindrom.exe
+D:\BujdeiFelix\lab8\CelMaiLungPalindrom\bin\Debug\net6.0\CelMaiLungPalindrom.deps.json
+D:\BujdeiFelix\lab8\CelMaiLungPalindrom\bin\Debug\net6.0\CelMaiLungPalindrom.runtimeconfig.json
+D:\BujdeiFelix\lab8\CelMaiLungPalindrom\bin\Debug\net6.0\CelMaiLungPalindrom.dll
+D:\BujdeiFelix\lab8\CelMaiLungPalindrom\bin\Debug\net6.0\CelMaiLungPalindrom.pdb
+D:\BujdeiFelix\lab8\CelMaiLungPalindrom\obj\Debug\net6.0\CelMaiLungPalindrom.GeneratedMSBuildEditorConfig.editorconfig
+D:\BujdeiFelix\lab8\CelMaiLungPalindrom\obj\Debug\net6.0\CelMaiLungPalindrom.AssemblyInfoInputs.cache
+D:\BujdeiFelix\lab8\CelMaiLungPalindrom\obj\Debug\net6.0\CelMaiLungPalindrom.AssemblyInfo.cs
+D:\BujdeiFelix\lab8\CelMaiLungPalindrom\obj\Debug\net6.0\CelMaiLungPalindrom.csproj.CoreCompileInputs.cache
+D:\BujdeiFelix\lab8\CelMaiLungPalindrom\obj\Debug\net6.0\CelMaiLungPalindrom.dll
+D:\BujdeiFelix\lab8\CelMaiLungPalindrom\obj\Debug\net6.0\refint\CelMaiLungPalindrom.dll
+D:\BujdeiFelix\lab8\CelMaiLungPalindrom\obj\Debug\net6.0\CelMaiLungPalindrom.pdb
+D:\BujdeiFelix\lab8\CelMaiLungPalindrom\obj\Debug\net6.0\CelMaiLungPalindrom.genruntimeconfig.cache
+D:\BujdeiFelix\lab8\CelMaiLungPalindrom\obj\Debug\net6.0\ref\CelMaiLungPalindrom.dll

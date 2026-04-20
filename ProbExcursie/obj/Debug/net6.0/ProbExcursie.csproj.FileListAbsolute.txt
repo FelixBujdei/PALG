@@ -1,0 +1,14 @@
+D:\BujdeiFelix\lab8\ProbExcursie\bin\Debug\net6.0\ProbExcursie.exe
+D:\BujdeiFelix\lab8\ProbExcursie\bin\Debug\net6.0\ProbExcursie.deps.json
+D:\BujdeiFelix\lab8\ProbExcursie\bin\Debug\net6.0\ProbExcursie.runtimeconfig.json
+D:\BujdeiFelix\lab8\ProbExcursie\bin\Debug\net6.0\ProbExcursie.dll
+D:\BujdeiFelix\lab8\ProbExcursie\bin\Debug\net6.0\ProbExcursie.pdb
+D:\BujdeiFelix\lab8\ProbExcursie\obj\Debug\net6.0\ProbExcursie.GeneratedMSBuildEditorConfig.editorconfig
+D:\BujdeiFelix\lab8\ProbExcursie\obj\Debug\net6.0\ProbExcursie.AssemblyInfoInputs.cache
+D:\BujdeiFelix\lab8\ProbExcursie\obj\Debug\net6.0\ProbExcursie.AssemblyInfo.cs
+D:\BujdeiFelix\lab8\ProbExcursie\obj\Debug\net6.0\ProbExcursie.csproj.CoreCompileInputs.cache
+D:\BujdeiFelix\lab8\ProbExcursie\obj\Debug\net6.0\ProbExcursie.dll
+D:\BujdeiFelix\lab8\ProbExcursie\obj\Debug\net6.0\refint\ProbExcursie.dll
+D:\BujdeiFelix\lab8\ProbExcursie\obj\Debug\net6.0\ProbExcursie.pdb
+D:\BujdeiFelix\lab8\ProbExcursie\obj\Debug\net6.0\ProbExcursie.genruntimeconfig.cache
+D:\BujdeiFelix\lab8\ProbExcursie\obj\Debug\net6.0\ref\ProbExcursie.dll
