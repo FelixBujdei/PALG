@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParcurgeLab", "ParcurgeLab.csproj", "{DC0BA7D4-F42C-452A-A107-4BA6E2504A43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC0BA7D4-F42C-452A-A107-4BA6E2504A43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC0BA7D4-F42C-452A-A107-4BA6E2504A43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC0BA7D4-F42C-452A-A107-4BA6E2504A43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC0BA7D4-F42C-452A-A107-4BA6E2504A43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCDCDFEF-3DB6-4175-BDC5-50C7662C9C41}
+	EndGlobalSection
+EndGlobal

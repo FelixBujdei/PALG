@@ -1,0 +1,15 @@
+8
+4 3
+4
+Primul indragostit:
+2 1
+3 1
+4 1
+4 2
+4 3
+Al doilea indragostit:
+2 3
+2 4
+3 4
+4 4
+4 3

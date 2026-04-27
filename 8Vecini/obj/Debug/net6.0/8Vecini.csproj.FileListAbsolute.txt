@@ -1,0 +1,14 @@
+D:\BujdeiFelix\Lab9\8Vecini\bin\Debug\net6.0\8Vecini.exe
+D:\BujdeiFelix\Lab9\8Vecini\bin\Debug\net6.0\8Vecini.deps.json
+D:\BujdeiFelix\Lab9\8Vecini\bin\Debug\net6.0\8Vecini.runtimeconfig.json
+D:\BujdeiFelix\Lab9\8Vecini\bin\Debug\net6.0\8Vecini.dll
+D:\BujdeiFelix\Lab9\8Vecini\bin\Debug\net6.0\8Vecini.pdb
+D:\BujdeiFelix\Lab9\8Vecini\obj\Debug\net6.0\8Vecini.GeneratedMSBuildEditorConfig.editorconfig
+D:\BujdeiFelix\Lab9\8Vecini\obj\Debug\net6.0\8Vecini.AssemblyInfoInputs.cache
+D:\BujdeiFelix\Lab9\8Vecini\obj\Debug\net6.0\8Vecini.AssemblyInfo.cs
+D:\BujdeiFelix\Lab9\8Vecini\obj\Debug\net6.0\8Vecini.csproj.CoreCompileInputs.cache
+D:\BujdeiFelix\Lab9\8Vecini\obj\Debug\net6.0\8Vecini.dll
+D:\BujdeiFelix\Lab9\8Vecini\obj\Debug\net6.0\refint\8Vecini.dll
+D:\BujdeiFelix\Lab9\8Vecini\obj\Debug\net6.0\8Vecini.pdb
+D:\BujdeiFelix\Lab9\8Vecini\obj\Debug\net6.0\8Vecini.genruntimeconfig.cache
+D:\BujdeiFelix\Lab9\8Vecini\obj\Debug\net6.0\ref\8Vecini.dll

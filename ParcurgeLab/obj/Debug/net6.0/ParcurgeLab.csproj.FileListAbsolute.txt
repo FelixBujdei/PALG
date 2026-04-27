@@ -1,0 +1,14 @@
+D:\BujdeiFelix\Lab9\ParcurgeLab\bin\Debug\net6.0\ParcurgeLab.exe
+D:\BujdeiFelix\Lab9\ParcurgeLab\bin\Debug\net6.0\ParcurgeLab.deps.json
+D:\BujdeiFelix\Lab9\ParcurgeLab\bin\Debug\net6.0\ParcurgeLab.runtimeconfig.json
+D:\BujdeiFelix\Lab9\ParcurgeLab\bin\Debug\net6.0\ParcurgeLab.dll
+D:\BujdeiFelix\Lab9\ParcurgeLab\bin\Debug\net6.0\ParcurgeLab.pdb
+D:\BujdeiFelix\Lab9\ParcurgeLab\obj\Debug\net6.0\ParcurgeLab.GeneratedMSBuildEditorConfig.editorconfig
+D:\BujdeiFelix\Lab9\ParcurgeLab\obj\Debug\net6.0\ParcurgeLab.AssemblyInfoInputs.cache
+D:\BujdeiFelix\Lab9\ParcurgeLab\obj\Debug\net6.0\ParcurgeLab.AssemblyInfo.cs
+D:\BujdeiFelix\Lab9\ParcurgeLab\obj\Debug\net6.0\ParcurgeLab.csproj.CoreCompileInputs.cache
+D:\BujdeiFelix\Lab9\ParcurgeLab\obj\Debug\net6.0\ParcurgeLab.dll
+D:\BujdeiFelix\Lab9\ParcurgeLab\obj\Debug\net6.0\refint\ParcurgeLab.dll
+D:\BujdeiFelix\Lab9\ParcurgeLab\obj\Debug\net6.0\ParcurgeLab.pdb
+D:\BujdeiFelix\Lab9\ParcurgeLab\obj\Debug\net6.0\ParcurgeLab.genruntimeconfig.cache
+D:\BujdeiFelix\Lab9\ParcurgeLab\obj\Debug\net6.0\ref\ParcurgeLab.dll
